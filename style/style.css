@@ -1,0 +1,39 @@
+
+.wrapper{
+    background-color:grey;
+}
+
+.lead{
+    font-size:50px;
+    text-align:center;
+    background-color:#021f4f;
+    font-family:sans-serif;
+    color:white;
+}
+
+.table{
+    border: 1px solid #dddddd;
+}
+.table-header{
+    font-family:sans-serif;
+     font-weight:100;
+    font-size:20px;
+    color:white;
+    background-color:#021f4f;
+   
+}
+
+.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+   background-color: #f5ff9b;
+}
+
+.table-body{
+    font-size:15px;
+    color:black;
+    font-weight:200;
+    font-family:sans-serif;
+}
+
+a {
+    color:black;
+}

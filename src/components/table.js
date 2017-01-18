@@ -68,8 +68,8 @@ console.log("recent time");
         })
         return(
             <div className="container">
-            <table className="table table-striped ">
-            <thead>
+            <table className="table table-striped table-bordered">
+            <thead className="table-header">
             <tr>
             <th>#</th>
             <th>Camper-Name</th>
